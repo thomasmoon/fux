@@ -31,7 +31,7 @@ I understand complexity grows with business rules. Perhaps there’s a practical
 
 From a programming perspective, allowing multiple selections could require some 10-15% more effort in the development process? It wouldn't be an entirely different project at least.
 
-The feature would have increased sales by 209% here. 📈 Seems like such an obvious win that I’m questioning what kind of freak I am for wanting this if nobody else has noticed a problem. A simple user experience review has taken me into a downward spiral of self-doubt. Apathy sets in... nothing will change. Of course we can’t have exactly what we want. We serve the almighty SAP master, or Amadeus. Whoever the god of our technological life is today.
+The feature would have increased sales by 109% here. 📈 Seems like such an obvious win that I’m questioning what kind of freak I am for wanting this if nobody else has noticed a problem. A simple user experience review has taken me into a downward spiral of self-doubt. Apathy sets in... nothing will change. Of course we can’t have exactly what we want. We serve the almighty SAP master, or Amadeus. Whoever the god of our technological life is today.
 
 AI won’t help solve these problems. So who’s really running the show? Who will take my advice? More importantly, who will take my money for all the yummy food, drinks and chocolates that can’t be purchased separately? 💰👋😋🍫 Safe travels to all and inspiration! ✨
 
