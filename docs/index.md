@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my FUX microblog, a collection of real world user experience observation.
+Welcome to my FUX microblog, a collection of real world user experience observations.
 
 I'm always happy to discuss the intersection of technology and design, so feel free to reach out!
 
